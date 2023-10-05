@@ -1,4 +1,6 @@
 # Dart & Flutter
+https://ru.wikipedia.org/wiki/Android_Studio
+
 https://ru.wikipedia.org/wiki/Dart         
 2017 [habr: Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)           
 [metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
