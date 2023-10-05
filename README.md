@@ -1,5 +1,7 @@
 # Dart & Flutter
 [github: 📚Сборник информации по Flutter](https://github.com/newbalancem5/flutter_info)
+[Академия Яндекса: Flutter хендбук](https://academy.yandex.ru/handbook/flutter) - готово только 2 главы
+
 [Документация по Flutter (rus)](https://flutterdocs.ru/)
 [flutter.dev: Books about Flutter](https://docs.flutter.dev/resources/books)
 
