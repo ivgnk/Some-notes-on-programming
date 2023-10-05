@@ -10,6 +10,11 @@ https://ru.wikipedia.org/wiki/Flutter
 2018 [habr: Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/companies/google/articles/426701)                                  
 2023 [habr: Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/)                    
 
+## Video
+[channel: LazyLoad Dart & Flutter](https://www.youtube.com/@LearnDartFlutter), 12,5 тыс. подписчиков, 152 видео        
+[channel: codeandart main](https://www.youtube.com/@codeandartmain), 7,75 тыс. подписчиков, 21 видео      
+- [codeandart main: Как установить Flutter на Windows. Начальная настройка IDE](https://www.youtube.com/watch?v=Nw39Se5xFQM)              
+
 # Server-side rendering (SSR)
 
 https://en.wikipedia.org/wiki/Server-side_scripting         
