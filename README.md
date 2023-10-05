@@ -12,9 +12,9 @@ https://ru.wikipedia.org/wiki/Flutter
 
 ## Video
 [channel: LazyLoad Dart & Flutter](https://www.youtube.com/@LearnDartFlutter), 12,5 тыс. подписчиков, 152 видео        
-[channel: codeandart main](https://www.youtube.com/@codeandartmain), 7,75 тыс. подписчиков, 21 видео
- [codeandart main: Как установить Flutter на Windows. Начальная настройка IDE](https://www.youtube.com/watch?v=Nw39Se5xFQM)              
- [Как создать мобильное приложение с помощью Flutter. Часть 1.](https://www.youtube.com/watch?v=_gHkBEACG4Q)            
+[channel: codeandart main](https://www.youtube.com/@codeandartmain), 7,75 тыс. подписчиков, 21 видео                   
+ [codeandart main: Как установить Flutter на Windows. Начальная настройка IDE](https://www.youtube.com/watch?v=Nw39Se5xFQM)                        
+ [Как создать мобильное приложение с помощью Flutter. Часть 1.](https://www.youtube.com/watch?v=_gHkBEACG4Q)                 
 
 # Server-side rendering (SSR)
 
