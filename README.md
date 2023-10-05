@@ -1,13 +1,10 @@
 # Server-side rendering (SSR)
 
 https://en.wikipedia.org/wiki/Server-side_scripting         
-https://en.wikipedia.org/wiki/Category:Free_static_website_generators
 
-https://en.wikipedia.org/wiki/Gatsby_(software)
-https://en.wikipedia.org/wiki/Next.js      
-https://en.wikipedia.org/wiki/Hugo_(software)
-https://en.wikipedia.org/wiki/Jekyll_(software)
-https://en.wikipedia.org/wiki/Nuxt.js
+https://en.wikipedia.org/wiki/Static_site_generator
+https://en.wikipedia.org/wiki/Category:Free_static_website_generators:
+https://en.wikipedia.org/wiki/Gatsby_(software) , https://en.wikipedia.org/wiki/Next.js , https://en.wikipedia.org/wiki/Hugo_(software) , https://en.wikipedia.org/wiki/Jekyll_(software) , https://en.wikipedia.org/wiki/Nuxt.js               
 
 [SSR Frameworks: Next.js vs SvelteKit vs Nuxt vs Quasar vs Gatsby](https://simply-how.com/server-side-rendering-web-frameworks)
 
