@@ -4,7 +4,7 @@ https://ru.wikipedia.org/wiki/Dart
 [metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
 
 https://ru.wikipedia.org/wiki/Flutter        
-[Flutter maintains official support for the following IDEs and editors via plugins: IntelliJ IDEA, Android Studio, Visual Studio Code](https://en.wikipedia.org/wiki/Flutter_(software))                
+*[Flutter maintains official support for the following IDEs and editors via plugins: IntelliJ IDEA, Android Studio, Visual Studio Code](https://en.wikipedia.org/wiki/Flutter_(software))*                
 2018 [habr: Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/companies/google/articles/426701)                                  
 2023 [habr: Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/)                    
 
