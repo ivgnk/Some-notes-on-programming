@@ -29,4 +29,6 @@ https://jamstack.org/generators/blogdown-r
 
 - - -
 ## Статьи
-2021 [Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098/)
+[habr search mkdocs](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmkdocs%5D)               
+[ya.ru search mkdocs](https://ya.ru/search/?text=использование+MkDocs)
+2021 [Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098/)              
