@@ -1,3 +1,12 @@
+# Dart & Flutter
+https://ru.wikipedia.org/wiki/Dart         
+2017 [habr: Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)           
+[metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
+
+https://ru.wikipedia.org/wiki/Flutter        
+2018 [habr: Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/companies/google/articles/426701)                                  
+2023 [habr: Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/)                    
+
 # Server-side rendering (SSR)
 
 https://en.wikipedia.org/wiki/Server-side_scripting         
@@ -28,4 +37,4 @@ https://jamstack.org/generators/blogdown-r
 ## Статьи
 [habr search mkdocs](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmkdocs%5D)                     
 [ya.ru search mkdocs](https://ya.ru/search/?text=использование+MkDocs)                
-2021 [Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098/)              
+2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
