@@ -26,3 +26,7 @@ Static Site Generators on R (only 3),  Templates: R, R Markdown:
 https://jamstack.org/generators/bookdown_r             
 https://jamstack.org/generators/rmarkdown        
 https://jamstack.org/generators/blogdown-r            
+
+- - -
+## Статьи
+2021 [Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098/)
