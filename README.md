@@ -4,7 +4,7 @@
 
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
-*[dart.dev: Dart documentation](https://dart.dev/guides)*                                    
+**[dart.dev: Dart documentation](https://dart.dev/guides)**                                    
 https://habr.com/ru/hubs/dart/articles         
 [Академия Яндекса: Flutter хендбук](https://academy.yandex.ru/handbook/flutter) (parts 2.4-2.17)
 
