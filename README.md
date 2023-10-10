@@ -12,7 +12,11 @@ https://habr.com/ru/hubs/dart/articles
 
 2017 [habr: Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)           
 [metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
-[Учебник по языку Dart для программистов](https://questu.ru/articles/190153)             
+[Учебник по языку Dart для программистов](https://questu.ru/articles/190153)     
+
+**https://dart-tutorial.com              
+https://the-algorithms.com/language/dart**         
+
 
 
 ##  Flutter           
