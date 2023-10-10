@@ -2,6 +2,8 @@
 **https://github.com/topics/dart**           
 **https://github.com/topics/flutter**              
 
+pub.dev — официальный репозиторий пакетов для Dart и Flutter 
+
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
 **[dart.dev: Dart documentation](https://dart.dev/guides)**                                    
