@@ -3,28 +3,30 @@
 **https://github.com/topics/flutter**              
 
 ##  Dart
-[Dart documentation](https://dart.dev/guides)                       
+https://ru.wikipedia.org/wiki/Dart         
+*[dart.dev: Dart documentation](https://dart.dev/guides)*                                    
+https://habr.com/ru/hubs/dart/articles         
+
+2017 [habr: Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)           
+[metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
+[Учебник по языку Dart для программистов](https://questu.ru/articles/190153)             
 
 
-
+##  Flutter           
 [github: 📚Сборник информации по Flutter](https://github.com/newbalancem5/flutter_info)
 [Академия Яндекса: Flutter хендбук](https://academy.yandex.ru/handbook/flutter) - готово только 2 главы
 
 [Документация по Flutter (rus)](https://flutterdocs.ru/)
 [flutter.dev: Books about Flutter](https://docs.flutter.dev/resources/books)
 
-https://habr.com/ru/hubs/dart/articles         
-https://habr.com/ru/hubs/flutter/articles               
 
+https://habr.com/ru/hubs/flutter/articles               
 
 https://ru.wikipedia.org/wiki/Android_Studio
 
-https://ru.wikipedia.org/wiki/Dart         
-2017 [habr: Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)           
-[metanit: Руководство по языку Dart](https://metanit.com/dart/tutorial/)          
+
 
 https://ru.wikipedia.org/wiki/Flutter        
-[Учебник по языку Dart для программистов](https://questu.ru/articles/190153)             
 
 *[Flutter maintains official support for the following IDEs and editors via plugins: IntelliJ IDEA, Android Studio, Visual Studio Code](https://en.wikipedia.org/wiki/Flutter_(software))*                
 2018 [habr: Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/companies/google/articles/426701)                                  
