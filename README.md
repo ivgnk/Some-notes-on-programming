@@ -1,5 +1,18 @@
-# Visual Studio Code
+# IDE:  Visual Studio Code
 **[2020 Редактор кода Visual Studio Code. Самый подробный гайд по настройке и установке плагинов для начинающих](https://habr.com/ru/articles/490754)**
+Расширения           
+Dart, Flutter [Dart Code - dartcode.org]            
+Pub Manager: Manage packages in your Dart and Flutter projects. View package information, check for updates ... [qlevar]         
+
+Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more [Codeium - codeium.com]           
+Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java & more [TabNine - tabnine.com]         
+IntelliCode: AI-assisted development [Microsoft - microsoft.com]           
+IntelliCode API Usage Examples: relevant code examples from GitHub [Microsoft - microsoft.com]             
+
+Live Server: Launch a development local Server with live reload feature for static & dynamic pages [Ritwick Dey]              
+
+
+
 
 # Dart & Flutter
 **https://github.com/topics/dart**           
