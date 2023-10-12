@@ -22,7 +22,7 @@ Live Server: Launch a development local Server with live reload feature for stat
 pub.dev — официальный репозиторий пакетов для Dart и Flutter 
 
 [24.03.2023 Болевые точки Dart и Flutter](https://habr.com/ru/articles/724538)           
-[02.01.20123 Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/articles/708854)             
+[02.01.2023 Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/articles/708854)             
 [17.11.2022 Телеграм-каналы о Flutter и Dart-разработке](https://habr.com/ru/articles/700002/)           
 
 ##  Dart
