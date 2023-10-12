@@ -10,7 +10,8 @@ IntelliCode: AI-assisted development [Microsoft - microsoft.com]
 IntelliCode API Usage Examples: relevant code examples from GitHub [Microsoft - microsoft.com]             
 
 Live Server: Launch a development local Server with live reload feature for static & dynamic pages [Ritwick Dey]              
-
+- - -
+[VSCode Launch Configuration](https://dartcode.org/docs/launch-configuration/)                  
 
 
 
