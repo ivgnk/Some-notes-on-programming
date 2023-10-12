@@ -23,6 +23,7 @@ pub.dev — официальный репозиторий пакетов для 
 
 [24.03.2023 Болевые точки Dart и Flutter](https://habr.com/ru/articles/724538)           
 [02.01.20123 Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/articles/708854)             
+[17.11.2022 Телеграм-каналы о Flutter и Dart-разработке](https://habr.com/ru/articles/700002/)           
 
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
