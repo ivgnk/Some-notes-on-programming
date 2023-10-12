@@ -24,11 +24,12 @@ pub.dev — официальный репозиторий пакетов для 
 [24.03.2023 Болевые точки Dart и Flutter](https://habr.com/ru/articles/724538)           
 [02.01.2023 Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/articles/708854)             
 [17.11.2022 Телеграм-каналы о Flutter и Dart-разработке](https://habr.com/ru/articles/700002/)           
-[05.04.2022 Flutter for Desktop — новый подход к разработке приложений](https://habr.com/ru/companies/otus/articles/659159)
-[11.02.2022 Dart, Flutter и кроссплатформа: небольшой разбор на практике](https://habr.com/ru/articles/651065)
-[22.03.2021 Ускоряем Dart. Нативно, недорого](https://habr.com/ru/articles/547946)
-6 мин
-4.5K]
+[05.04.2022 Flutter for Desktop — новый подход к разработке приложений](https://habr.com/ru/companies/otus/articles/659159)                 
+[11.02.2022 Dart, Flutter и кроссплатформа: небольшой разбор на практике](https://habr.com/ru/articles/651065)              
+[22.03.2021 Ускоряем Dart. Нативно, недорого](https://habr.com/ru/articles/547946)        
+[07,10.2019 Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/articles/470251)         
+[06.12.2017 Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)               
+[09.01.2014 Клеточные автоматы на Dart](https://habr.com/ru/articles/207830/)                    
 
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
