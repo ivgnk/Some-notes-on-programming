@@ -21,6 +21,8 @@ Live Server: Launch a development local Server with live reload feature for stat
 
 pub.dev — официальный репозиторий пакетов для Dart и Flutter 
 
+[24.03.2023 Болевые точки Dart и Flutter](https://habr.com/ru/articles/724538/)                    
+
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
 **[dart.dev: Dart documentation](https://dart.dev/guides)**                                    
