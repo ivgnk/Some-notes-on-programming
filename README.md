@@ -20,8 +20,8 @@ Live Server: Launch a development local Server with live reload feature for stat
 **https://github.com/topics/flutter**              
 https://www.reddit.com/r/dartlang         
 https://www.reddit.com/r/FlutterDev          
-https://stackoverflow.com/questions/tagged/dart
-https://stackoverflow.com/questions/tagged/flutter
+https://stackoverflow.com/questions/tagged/dart                      
+https://stackoverflow.com/questions/tagged/flutter                        
 
 pub.dev — официальный репозиторий пакетов для Dart и Flutter 
 
