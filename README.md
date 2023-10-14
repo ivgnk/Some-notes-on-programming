@@ -117,7 +117,7 @@ https://jamstack.org/generators/blogdown-r
 2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
 
 <details>
-   <summary>**Курсы**</summary>              
+   <summary> **Курсы** </summary>              
 
 [ТОП-20 Курсов по Flutter [2023] +Бесплатные — Обучение с нуля](https://dzen.ru/a/ZL42BzjXHjE4VTPQ)                   
 ### Бесплатные
