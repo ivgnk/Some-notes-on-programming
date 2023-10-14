@@ -115,7 +115,7 @@ https://jamstack.org/generators/blogdown-r
 
 <details>
    <summary>Курсы</summary>              
-   
+                         
 [Практический онлайн-курс от Flutter-команды Surf](https://education.surf.ru) - 65000 руб.              
   
 </details>
