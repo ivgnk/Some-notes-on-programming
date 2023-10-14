@@ -23,7 +23,7 @@ https://www.reddit.com/r/FlutterDev
 https://stackoverflow.com/questions/tagged/dart                      
 https://stackoverflow.com/questions/tagged/flutter                        
 
-https://flutterflow.io           
+https://flutterflow.io - конструктор, с возможностью использования и встраивания кода, для разработки нативных мобильных приложений                            
 https://flutterflow.ru              
 
 pub.dev — официальный репозиторий пакетов для Dart и Flutter 
@@ -117,16 +117,25 @@ https://jamstack.org/generators/blogdown-r
 2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
 
 <details>
-   <summary>Курсы</summary>              
+   <summary>**Курсы**</summary>              
 
 [ТОП-20 Курсов по Flutter [2023] +Бесплатные — Обучение с нуля](https://dzen.ru/a/ZL42BzjXHjE4VTPQ)                   
-                         
+### Бесплатные
+https://flutter.su
+
+### Платные                         
 [Практический онлайн-курс от Flutter-команды Surf + Dart ](https://education.surf.ru) - 65000 руб./300 часов = 217 р/ч           
 
-[3 004 результатов по запросу «Flutter»](https://www.udemy.com/courses/search/?src=ukw&q=Flutter) 
+[zerocoder: Продвинутый курс по мобильным приложениям на Flutter Flow](https://zerocoder.ru/flutter-flow1#tariffs) - 54700 руб./ 4 месяца = 13575 р/м      
+
+[udemy: 3 004 результатов по запросу «Flutter»](https://www.udemy.com/courses/search/?src=ukw&q=Flutter)             
 [udemy: Изучаем Flutter](https://www.udemy.com/course/learn_flutter) - 5990 / 22.5 часа = 266 р/ч       
 
 
+[otus: Flutter Mobile Developer](https://otus.ru/lessons/dart-flutter) - 55000 руб./ 5 мес. = 11000 р/м -  Курсовой проект            
+[skill-branch: Flutter в мультиплатформенной мобильной разработке](https://skill-branch.ru/flutter) - 52200 / 5 мес. = 10400 р/м  / 6 проектов          
+[itproger: Уроки Flutter и Dart с нуля](https://itproger.com/course/flutter-dart) -  11 уроков, 30 заданий 8400/9м
+[МФТИ: Кроссплатформенная мобильная разработка на Flutter](https://fpmi-edu.ru/flutter) - 70000/3м - 1 проект
 
 
 
