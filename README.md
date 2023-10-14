@@ -112,3 +112,9 @@ https://jamstack.org/generators/blogdown-r
 [habr search mkdocs](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmkdocs%5D)                     
 [ya.ru search mkdocs](https://ya.ru/search/?text=использование+MkDocs)                
 2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
+
+<details>
+   <summary>Курсы</summary>              
+[Практический онлайн-курс от Flutter-команды Surf](https://education.surf.ru) - 65000 руб.              
+  
+</details>
