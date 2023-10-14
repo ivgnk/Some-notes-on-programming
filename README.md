@@ -115,7 +115,17 @@ https://jamstack.org/generators/blogdown-r
 
 <details>
    <summary>Курсы</summary>              
+
+[ТОП-20 Курсов по Flutter [2023] +Бесплатные — Обучение с нуля](https://dzen.ru/a/ZL42BzjXHjE4VTPQ)                   
                          
-[Практический онлайн-курс от Flutter-команды Surf](https://education.surf.ru) - 65000 руб.              
+[Практический онлайн-курс от Flutter-команды Surf + Dart ](https://education.surf.ru) - 65000 руб./300 часов = 217 р/ч           
+
+[3 004 результатов по запросу «Flutter»](https://www.udemy.com/courses/search/?src=ukw&q=Flutter) 
+[udemy: Изучаем Flutter](https://www.udemy.com/course/learn_flutter) - 5990 / 22.5 часа = 266 р/ч       
+
+
+
+
+
   
 </details>
