@@ -136,8 +136,8 @@ https://flutter.su
 
 [otus: Flutter Mobile Developer](https://otus.ru/lessons/dart-flutter) - 55000 руб./ 5 мес. = 11000 р/м -  Курсовой проект            
 [skill-branch: Flutter в мультиплатформенной мобильной разработке](https://skill-branch.ru/flutter) - 52200 / 5 мес. = 10400 р/м  / 6 проектов          
-[itproger: Уроки Flutter и Dart с нуля](https://itproger.com/course/flutter-dart) -  11 уроков, 30 заданий 8400/9м
-[МФТИ: Кроссплатформенная мобильная разработка на Flutter](https://fpmi-edu.ru/flutter) - 70000/3м - 1 проект
+[itproger: Уроки Flutter и Dart с нуля](https://itproger.com/course/flutter-dart) -  11 уроков, 30 заданий 8400/9м                     
+[МФТИ: Кроссплатформенная мобильная разработка на Flutter](https://fpmi-edu.ru/flutter) - 70000/3м - 1 проект                   
 
 
 
