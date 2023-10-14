@@ -117,11 +117,13 @@ https://jamstack.org/generators/blogdown-r
 2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
 
 <details>
-   <summary> **Курсы** </summary>              
+   <summary> Курсы </summary>              
 
 [ТОП-20 Курсов по Flutter [2023] +Бесплатные — Обучение с нуля](https://dzen.ru/a/ZL42BzjXHjE4VTPQ)                   
 ### Бесплатные
-https://flutter.su
+[youtube: Курсы по Flutter](https://www.youtube.com/results?search_query=Курсы+по+Flutter)             
+[youtube: Otus: Открытые уроки Мобильная разработка на Flutter](https://www.youtube.com/playlist?list=PLfnFOImnyWRW6fjFVuhxSnBl5SJtYXsf-)            
+https://flutter.su             
 
 ### Платные                         
 [Практический онлайн-курс от Flutter-команды Surf + Dart ](https://education.surf.ru) - 65000 руб./300 часов = 217 р/ч           
