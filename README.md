@@ -55,7 +55,9 @@ https://habr.com/ru/hubs/dart/articles
 **https://dart-tutorial.com              
 https://the-algorithms.com/language/dart**         
 https://www.woolha.com/tutorials/categories/dart/
-2011-2013 http://dartdot.ru/
+2011-2013 http://dartdot.ru/        
+
+2023 [Dart для бэкэндеров. Часть 1](https://habr.com/ru/companies/otus/articles/743804) 
 
 
 ##  Flutter           
