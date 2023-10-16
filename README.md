@@ -55,7 +55,8 @@ pub.dev — официальный репозиторий пакетов для 
 [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)              
 [ open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)                   
 [fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore                                
-- - -
+
+
 [flutter_roadmap Public](https://github.com/p0dyakov/flutter_roadmap) - 📑 Дорожная карта по изучению мобильной разработки на dart & flutter      
 [flutter_articles Public](https://github.com/p0dyakov/flutter_articles) - 📖 Сборник русскоязычных статей с Хабра по мобильной разработке на flutter                   
 https://github.com/p0dyakov?tab=repositories                 
