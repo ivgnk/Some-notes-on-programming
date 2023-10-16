@@ -12,6 +12,8 @@ IntelliCode API Usage Examples: relevant code examples from GitHub [Microsoft - 
 Live Server: Launch a development local Server with live reload feature for static & dynamic pages [Ritwick Dey]              
 - - -
 **[VSCode Launch Configuration](https://dartcode.org/docs/launch-configuration/)**                  
+- - -
+[Svelte vs. Flutter: Which one do you prefer?](https://olibr.com/blog/svelte-vs-flutter-which-one-do-you-prefer)
 
 
 
