@@ -120,6 +120,12 @@ https://jamstack.org/generators/blogdown-r
 [ya.ru search mkdocs](https://ya.ru/search/?text=использование+MkDocs)                
 2021 [habr: Пошаговая инструкция как использовать MkDocs для создания сайта с документацией продукта](https://habr.com/ru/companies/rostelecom/articles/570098)              
 
+## Собеседование
+https://www.youtube.com/results?search_query=собеседование+dart
+https://www.youtube.com/results?search_query=собеседование+flutter
+https://ya.ru/search/?text=вопросы+собеседования+dart+flutter
+[github: flutter_interview](https://github.com/p0dyakov/flutter_interview)
+
 <details>
    <summary> Курсы </summary>              
 
