@@ -41,11 +41,25 @@ pub.dev — официальный репозиторий пакетов для 
 [07,10.2019 Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/articles/470251)         
 [06.12.2017 Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)               
 [09.01.2014 Клеточные автоматы на Dart](https://habr.com/ru/articles/207830/)                    
+
+### Gihub
+[dart: sorted by forks](https://github.com/topics/dart?l=dart&o=desc&s=forks)                  
+[FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)              
+[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials)           
+[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples)          
+[flutter-examples](https://github.com/nisrulz/flutter-examples)               
+[flutter / gallery](https://github.com/flutter/gallery)                   
+[Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit)                  
+[flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)                 
+[flutter_boilerplate_project](https://github.com/zubairehman/flutter_boilerplate_project)               
+[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)              
+[ open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)                   
+[fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore                                
 - - -
-[github: flutter_roadmap Public](https://github.com/p0dyakov/flutter_roadmap) - 📑 Дорожная карта по изучению мобильной разработки на dart & flutter      
+[flutter_roadmap Public](https://github.com/p0dyakov/flutter_roadmap) - 📑 Дорожная карта по изучению мобильной разработки на dart & flutter      
 [flutter_articles Public](https://github.com/p0dyakov/flutter_articles) - 📖 Сборник русскоязычных статей с Хабра по мобильной разработке на flutter                   
-- - -
 https://github.com/p0dyakov?tab=repositories                 
+
 
 
 
