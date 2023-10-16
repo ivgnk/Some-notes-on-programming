@@ -41,6 +41,13 @@ pub.dev — официальный репозиторий пакетов для 
 [07,10.2019 Как я делал desktop-приложение на Flutter (+ bonus)](https://habr.com/ru/articles/470251)         
 [06.12.2017 Dart: как правильно начать знакомство с языком?](https://habr.com/ru/companies/wrike/articles/343988/)               
 [09.01.2014 Клеточные автоматы на Dart](https://habr.com/ru/articles/207830/)                    
+- - -
+[github: flutter_roadmap Public](https://github.com/p0dyakov/flutter_roadmap) - 📑 Дорожная карта по изучению мобильной разработки на dart & flutter      
+[flutter_articles Public](https://github.com/p0dyakov/flutter_articles) - 📖 Сборник русскоязычных статей с Хабра по мобильной разработке на flutter                   
+- - -
+https://github.com/p0dyakov?tab=repositories                 
+
+
 
 ##  Dart
 https://ru.wikipedia.org/wiki/Dart         
