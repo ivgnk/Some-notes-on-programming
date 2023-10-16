@@ -13,7 +13,9 @@ Live Server: Launch a development local Server with live reload feature for stat
 - - -
 **[VSCode Launch Configuration](https://dartcode.org/docs/launch-configuration/)**                  
 - - -
-[Svelte vs. Flutter: Which one do you prefer?](https://olibr.com/blog/svelte-vs-flutter-which-one-do-you-prefer)
+**[Svelte vs. Flutter: Which one do you prefer?](https://olibr.com/blog/svelte-vs-flutter-which-one-do-you-prefer)**             
+[Flutter.dev VS Svelte](https://www.saashub.com/compare-flutter-dev-vs-svelte)          
+
 
 
 
